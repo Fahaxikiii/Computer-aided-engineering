@@ -1,6 +1,6 @@
 #include "QtWidgetsApplication.h"
 #include <QtWidgets/QApplication>
-#include <QIcon>
+#include <QIcon>//Í¼±ê
 
 int main(int argc, char *argv[])
 {
