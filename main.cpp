@@ -8,5 +8,6 @@ int main(int argc, char *argv[])
     a.setWindowIcon(QIcon("abc.ico"));
     QtWidgetsApplication w;
     w.show();
+    
     return a.exec();
 }
