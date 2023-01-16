@@ -3,12 +3,11 @@
 
 
 
-int main() {  //主函数
+int main() {
 	//struct person persons[4];
 	//string &a = persons[1].name;
 	//imformation();
-	string str = "写你麻痹的代码";
-	cout << str << endl;
+	cout << id.birthday.month;
 	system("pause");
 	return 0;
 }

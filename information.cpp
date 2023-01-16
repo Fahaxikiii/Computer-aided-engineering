@@ -1,6 +1,6 @@
-//#include "information.h"
-//
+#include "information.h"
+
 //void imformation()
 //{
-//	cout << 20310302;
+//	cout << id[1].birthday.month;
 //}

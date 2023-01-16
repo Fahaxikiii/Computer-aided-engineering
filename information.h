@@ -1,17 +1,23 @@
 #include <iostream>
 #include <string>
 using namespace std;
-//
-//struct person {
-//	string name;
-//	int birthday = 0;
-//};
-//
+
+struct Date {
+	int year;
+	int month;
+	int day;
+};
+
+struct person {
+	string name;
+	Date birthday;
+}id = { "陈浩" , 2002 , 8 , 26 };
+
 //person id[] = {
-//{ "�º�" , 20020826 },
-//{ "��ǿ" , 20020817 },
-//{ "Ǯ����" , 20020910 },
-//{ "����" , 20021212 }
+//{ "陈浩" , 2002 , 8 , 26 },
+//{ "陈强" , 2002 , 8 , 17 },
+//{ "钱能文" , 2002 , 9 , 10 },
+//{ "万里" , 2002 , 12 , 12 },
 //};
-//
+
 //void imformation();
